@@ -14,6 +14,6 @@ with open("5letterWords.txt","w") as new:
 						t4 = t3 + l4
 						for l5 in letters:
 							t5 = t4 + l5 + "\n"
-							new.write("%s" % t4)
+							new.write("%s" % t5)
 
 
