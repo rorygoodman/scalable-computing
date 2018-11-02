@@ -1,5 +1,5 @@
 __author__ = 'rorygoodman'
-hashfile = open("des.txt", "r")
+hashfile = open("goodmanr.broken", "r")
 newfile=open("goodmanr.broken", "w")
 lines = hashfile.readlines()
 
